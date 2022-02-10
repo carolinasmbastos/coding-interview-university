@@ -120,6 +120,7 @@ software development/engineering roles.
 - [A Note About Video Resources](#a-note-about-video-resources)
 - [Choose a Programming Language](#choose-a-programming-language)
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+- [Online Courses](#online-courses)
 - [Interview Prep Books](#interview-prep-books)
 - [Don't Make My Mistakes](#dont-make-my-mistakes)
 - [What you Won't See Covered](#what-you-wont-see-covered)
