@@ -392,6 +392,9 @@ Your choice:
     - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
     - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
+## Online courses
+- [Berkley CS](https://archive.org/search.php?query=subject%3A%2261B%22)
+
 ## Interview Prep Books
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
